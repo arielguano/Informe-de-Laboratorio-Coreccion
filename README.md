@@ -44,14 +44,14 @@ Teorema de Superposicion
 
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/imagen1.png)
 
-Le hago 0 a la primera fuente de voltaje
+# Le hago 0 a la primera fuente de voltaje
 
  I= 500A
 
 ![image](https://user-images.githubusercontent.com/84788926/184887297-9a3a2aa1-f92b-4ffa-9a0c-99a1ef287f82.png)
  
 
-Le hago 0 a la segunda  fuente de voltaje
+# Le hago 0 a la segunda  fuente de voltaje
 
 I=-400A
 
