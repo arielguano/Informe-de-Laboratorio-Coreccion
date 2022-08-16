@@ -24,7 +24,13 @@ Analizar de manera correcta la corriente o el voltaje en cualquier rama de un ci
 
 2.- MARCO TEÓRICO.
 
+Teorema de Thevenin
+
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/coreccion%20Circuitos-1.png)
+
+Teorema de Superposicion 
+
+![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/coreccion%20Circuitos-2.png)
 
 3.-EXPLICACIÓN DEL PROCEDIMIENTO
 
