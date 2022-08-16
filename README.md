@@ -46,11 +46,20 @@ Teorema de Superposicion
 
 Le hago 0 a la primera fuente de voltaje
 
+ I= 500A
+
 ![image](https://user-images.githubusercontent.com/84788926/184887297-9a3a2aa1-f92b-4ffa-9a0c-99a1ef287f82.png)
+ 
 
 Le hago 0 a la segunda  fuente de voltaje
 
+I=-400A
+
 ![image](https://user-images.githubusercontent.com/84788926/184887330-86641d76-5bff-4166-848d-fc6d78a63e5c.png)
+
+lA CORRIENTE TOTAL ES: 
+
+I=500A-400A = 100A
 
 # 3.2 Armar el segundo circuito
 
