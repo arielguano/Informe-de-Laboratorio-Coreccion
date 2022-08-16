@@ -65,10 +65,19 @@ I=500A-400A = 100A
 
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/Imagen3.png)
 
-![image](https://user-images.githubusercontent.com/84788926/184887416-b4fc91c1-a5bf-4248-8ca7-f54a3f99e121.png)
+# Primero calculamos el voltaje Thevenin
 
-![image](https://user-images.githubusercontent.com/84788926/184887472-29af8c37-6a16-4288-b4ac-b991782897cf.png)
+El voltaje de thevenin en este caso es Vth= 8.32 V
 
+![image](![image](https://user-images.githubusercontent.com/84788926/184992436-fa4eaf33-f6b9-41f8-9256-2f12880b9818.png)
+
+# Calculamos la reisitencia de Thevenin 
+
+La resistencia  de thevenin en este caso es Rth= 4.70 k 
+
+![image](![image](https://user-images.githubusercontent.com/84788926/184992578-987405cf-88d2-4443-a90c-96e9f183312f.png)
+
+# Finalmente  empleo el varimetro
 ![image](https://user-images.githubusercontent.com/84788926/184887498-3c46e342-59d2-452b-8a74-4799c16f5ab4.png)
 
 # 3.1 Armar el tercer circuito
