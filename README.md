@@ -84,11 +84,19 @@ La resistencia  de thevenin en este caso es Rth= 4.70 k
 
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/Imagen7.png)
 
+Encontramos la resistencia de Thevein:
+
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/Imagen8.png)
+
+Encontramos el voltaje de Thevenin: 
 
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/Imagen9.png)
 
+Encontramos la resistencia:
+
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/Imagen10.png)
+
+Comprobamos la medicion de corriente:
 
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/Imagen11.png)
 
