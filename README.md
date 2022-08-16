@@ -107,6 +107,8 @@ Comprobamos la medicion de corriente:
 
 # 4.- VÍDEO.
 
+https://youtu.be/9YWNW51GoyI 
+
 # 5.- CONCLUSIONES.
 
 Para concluir tienen la posibilidad de ser separados y al instante de sumarlos se puede ofrecer cuenta que ay una exactitud bastante enorme entre ellos y lo tenemos la posibilidad de verificar con las tablas comparativas
