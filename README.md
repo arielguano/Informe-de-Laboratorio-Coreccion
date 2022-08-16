@@ -4,13 +4,13 @@ Informe de Laboratorio
 
 # Tema: Aplicación del Teorema de Thévenin y Superposición.
 
-1.- OBJETIVOS.
+# 1.- OBJETIVOS.
 
-Objetivo general.
+# Objetivo general.
 
 Comprender y entender el Teorema de Thévenin y de Superposición de  los ejercicios plantados en el examen de laboratorio correspondiente al segundo parcial en los circuitos para poder reconocer de mejor manera el funcionamiento y comprenderá el teorema de superposición de la electrónica mediante la comprobación de mediciones experimentales y simulaciones de circuitos con eficiencia que permitan realizar experimentos sobre equipos o elementos eléctricos con la teoría y plasmarlas en una mejor forma para que analice y comprenda para el alumno.
 
-Objetivos específicos.
+# Objetivos específicos.
 
 Analizar de manera correcta la corriente o el voltaje en cualquier rama de un circuito estimulado por varias fuentes de energía, ya sean de corriente o de voltaje.
 
@@ -27,7 +27,7 @@ Analizar de manera correcta la corriente o el voltaje en cualquier rama de un ci
 Observar la factibilidad del Teorema de Thévenin, aplicado en el análisis de un circuito mixto
 
 
-2.- MARCO TEÓRICO.
+# 2.- MARCO TEÓRICO.
 
 Teorema de Thevenin
 
@@ -105,19 +105,22 @@ Comprobamos la medicion de corriente:
 
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/Imagen11.png)
 
-4.- VÍDEO.
+# 4.- VÍDEO.
 
-5.- CONCLUSIONES.
+# 5.- CONCLUSIONES.
 
-Para concluir tienen la posibilidad de ser separados y al instante de sumarlos se puede ofrecer cuenta que ay una exactitud bastante enorme entre ellos y lo tenemos la posibilidad de verificar con las tablas comparativas, este teorema es como un propiedad matemática viéndolo a partir de otro criterio el cual diria que la suma de los componentes es igual al elemento total con el voltaje equivalente de Thévenin (VTH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida, mientras que la resistencia equivalente de Thévenin (RTH) es la resistencia total que aparece entre dos terminales.
+Para concluir tienen la posibilidad de ser separados y al instante de sumarlos se puede ofrecer cuenta que ay una exactitud bastante enorme entre ellos y lo tenemos la posibilidad de verificar con las tablas comparativas
 
 Para aplicar el teorema de Thévenin, después de desconectar la carga del resto de la red, con vistas a determinar la tensión de circuito abierto, no deben existir conexiones absurdas en la red resultante.
 
-6.- BIBLIOGRAFÍA.
+El teorema de superposición es de gran utilidad para analizar circuitos que tengan dos o más fuentes, ya que al analizarlo fuente por fuente el análisis resultara más sencillo de realizar.
+
+Utilizar el simulador virtual nos permite tener un acercamiento a la práctica física, que a pesar de no ser lo mismo podemos tener una idea de como funciona cada componente, creando un mejor aprendizaje.
+
+# 6.- BIBLIOGRAFÍA.
+
+Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
 
 Montó Olivera, A.: Fundamentos de la Teoría de Circuitos I, Ciudad de La Habana, Cuba, Ed. Pueblo y Educación, 1989, pp. 116-123.
 
 R. C. Dorf, J. A. Svoboda, “Introduction to electric circuits”, John Wiley & Sons
-
-Willy, M. (28 de junio de 2017). Academia Khan. Obtenido de Superposición: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
-
