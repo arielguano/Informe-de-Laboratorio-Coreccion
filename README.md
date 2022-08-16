@@ -40,7 +40,7 @@ Teorema de Superposicion
 
 # 3.1 Armar el primer circuito
 
-![image](https://user-images.githubusercontent.com/84788926/184886988-26db459f-73f8-4cdd-b92b-792d24c5d77f.png)
+![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/ejer1.png)
 
 ![image](https://user-images.githubusercontent.com/84788926/184887272-80b5aff3-c4c9-4b07-b625-64da58769339.png)
 
