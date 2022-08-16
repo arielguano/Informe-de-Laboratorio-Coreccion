@@ -82,6 +82,8 @@ La resistencia  de thevenin en este caso es Rth= 4.70 k
 
 # 3.1 Armar el tercer circuito
 
+![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/Imagen7.png)
+
 4.- VÍDEO.
 
 5.- CONCLUSIONES.
