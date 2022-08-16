@@ -8,7 +8,7 @@ Informe de Laboratorio
 
 Objetivo general.
 
-Aplicar el Teorema de Thévenin y de Superposición en los circuitos para poder reconocer de mejor manera el funcionamiento y comprenderá el teorema de superposición de la electrónica mediante la comprobación de mediciones experimentales y simulaciones de circuitos con eficiencia que permitan realizar experimentos sobre equipos o elementos eléctricos con la teoría y plasmarlas en una mejor forma para que analice y comprenda para el alumno.
+Aplicar  y entender el Teorema de Thévenin y de Superposición en los circuitos para poder reconocer de mejor manera el funcionamiento y comprenderá el teorema de superposición de la electrónica mediante la comprobación de mediciones experimentales y simulaciones de circuitos con eficiencia que permitan realizar experimentos sobre equipos o elementos eléctricos con la teoría y plasmarlas en una mejor forma para que analice y comprenda para el alumno.
 
 Objetivos específicos.
 
@@ -24,7 +24,7 @@ Analizar de manera correcta la corriente o el voltaje en cualquier rama de un ci
 
 2.- MARCO TEÓRICO.
 
-![image](https://user-images.githubusercontent.com/84788926/184886831-367b22dc-1760-4428-a1ec-5d39b248ea91.png)
+![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/coreccion%20Circuitos-1.png)
 
 3.-EXPLICACIÓN DEL PROCEDIMIENTO
 
