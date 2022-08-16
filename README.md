@@ -42,7 +42,7 @@ Teorema de Superposicion
 
 ![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/ejer1.png)
 
-![image](https://user-images.githubusercontent.com/84788926/184887272-80b5aff3-c4c9-4b07-b625-64da58769339.png)
+![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/imagen1.png)
 
 ![image](https://user-images.githubusercontent.com/84788926/184887297-9a3a2aa1-f92b-4ffa-9a0c-99a1ef287f82.png)
 
