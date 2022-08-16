@@ -63,7 +63,7 @@ I=500A-400A = 100A
 
 # 3.2 Armar el segundo circuito
 
-![image](https://user-images.githubusercontent.com/84788926/184887395-ae977f92-6bba-4d4e-a3e0-8b960369ff31.png)
+![image](https://github.com/arielguano/Informe-de-Laboratorio-Coreccion/blob/main/Imagen3.png)
 
 ![image](https://user-images.githubusercontent.com/84788926/184887416-b4fc91c1-a5bf-4248-8ca7-f54a3f99e121.png)
 
